@@ -1,0 +1,1372 @@
+{
+    "data": [
+        {
+            "type": "slider",
+            "items": [
+                {
+                    "imageUrl": "https://sr.aihuishou.com/sos/image/6371110280185632201123053214.jpg?x-oss-process=image/quality,q_80&size=750x450",
+                    "id": 2250,
+                    "url": "https://page.aihuishou.com/renderer/?activityId=744&utm_source=m&utm_medium=tanceng&utm_campaign=v30",
+                    "urlType": 0,
+                    "order": 1,
+                    "wechatApplet": null,
+                    "createOn": "2019-09-04T12:11:56+08:00",
+                    "trackKey": "81542334854061_2250_8_slider_荣耀20S",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                },
+                {
+                    "imageUrl": "https://sr.aihuishou.com/sos/image/637112518458666420128126440.jpg?x-oss-process=image/quality,q_80&size=750x450",
+                    "id": 2207,
+                    "url": "https://m.aihuishou.com/n/#/newproduct/detail/32460",
+                    "urlType": 0,
+                    "order": 2,
+                    "wechatApplet": null,
+                    "createOn": "2019-09-04T12:11:56+08:00",
+                    "trackKey": "81542334854061_2207_8_slider_荣耀20S",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                },
+                {
+                    "imageUrl": "https://sr.aihuishou.com/sos/image/6371125557094460102119161385.jpg?x-oss-process=image/quality,q_80&size=750x450",
+                    "id": 2255,
+                    "url": "https://m.aihuishou.com/n/#/newproduct/detail/32290",
+                    "urlType": 0,
+                    "order": 3,
+                    "wechatApplet": null,
+                    "createOn": "2019-09-04T12:11:56+08:00",
+                    "trackKey": "81542334854061_2255_8_slider_荣耀20S",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "singleImage",
+            "items": [
+                {
+                    "imageUrl": "https://sr.aihuishou.com/sos/image/6369342773031882901633133764.jpg?x-oss-process=image/quality,q_80&size=750x75",
+                    "id": 1697,
+                    "url": "",
+                    "urlType": 0,
+                    "order": 0,
+                    "wechatApplet": null,
+                    "createOn": "2019-05-14 10:48:52",
+                    "trackKey": "81557802253930_1697_8_singleImage_本周热销",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 33280,
+                            "skuId": 940,
+                            "isShowPromotion": true,
+                            "promotionText": "性价比超高 双模5G",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": true,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "荣耀 V30 8GB 128GB 冰岛幻境 5G全网通",
+                            "subsidies": 100,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/0755800e770f0ff7MTU3NDgyNzc2MDAxNQ==.jpg",
+                            "skuParams": "8GB+128GB",
+                            "price": 3699,
+                            "officialPrice": 3699,
+                            "id": 2257,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/33280",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-12-09T11:27:54+08:00",
+                            "trackKey": "81575862035928_2257_8_newProduct_V30",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 32460,
+                            "skuId": 819,
+                            "isShowPromotion": true,
+                            "promotionText": "4000W像素 麒麟 990",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": true,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "华为 Mate 30 6GB 128GB 翡冷翠 4G全网通",
+                            "subsidies": 300,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/e89a1a427b814e45MTU3MTMxMjcyNjMzNA==.jpg",
+                            "skuParams": "6GB+128GB",
+                            "price": 3999,
+                            "officialPrice": 3999,
+                            "id": 2180,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/32460",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-09-27T19:16:03+08:00",
+                            "trackKey": "81569582885672_2180_8_newProduct_mate 30",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 32461,
+                            "skuId": 828,
+                            "isShowPromotion": true,
+                            "promotionText": "徕卡电影四摄 麒麟 990 超级快充",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": true,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "华为 Mate 30 Pro 8GB 128GB 罗兰紫 4G全网通",
+                            "subsidies": 300,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/19efd2919e02f78eMTU3MTMxMTUxNDM3MQ==.jpg",
+                            "skuParams": "8GB+128GB",
+                            "price": 5799,
+                            "officialPrice": 5799,
+                            "id": 2179,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/32461",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-09-27T19:15:24+08:00",
+                            "trackKey": "81569582883959_2179_8_newProduct_mate 30 pro",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 32290,
+                            "skuId": 750,
+                            "isShowPromotion": true,
+                            "promotionText": "6.1英寸大屏幕 无线充电",
+                            "defaultPriceType": 1,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "苹果 iPhone 11 64GB 黑色 全网通",
+                            "subsidies": 300,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/a4ff0dd48086f3e4MTU3MTMxMDIxNzczNQ==.jpg",
+                            "skuParams": "64GB",
+                            "price": 5499,
+                            "officialPrice": 5499,
+                            "id": 1993,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/32290",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-07-23T19:23:22+08:00",
+                            "trackKey": "81563880915881_1993_8_newProduct_11",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 32291,
+                            "skuId": 768,
+                            "isShowPromotion": true,
+                            "promotionText": null,
+                            "defaultPriceType": 1,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "苹果 iPhone 11 Pro 64GB 金色 全网通",
+                            "subsidies": 300,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/c49de383d29808a3MTU3MTMxMDU2MTg2OA==.jpg",
+                            "skuParams": "64GB",
+                            "price": 8699,
+                            "officialPrice": 8699,
+                            "id": 2160,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/32291",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-09-20T10:25:21+08:00",
+                            "trackKey": "81568946286708_2160_8_newProduct_11 pro",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 32292,
+                            "skuId": 783,
+                            "isShowPromotion": true,
+                            "promotionText": null,
+                            "defaultPriceType": 1,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "苹果 iPhone 11 Pro Max 64GB 暗夜绿色  全网通",
+                            "subsidies": 200,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/ccbc7745b343f87dMTU3MTMxMDc5MTY1Ng==.jpg",
+                            "skuParams": "64GB",
+                            "price": 9599,
+                            "officialPrice": 9599,
+                            "id": 2161,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/32292",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-09-20T10:25:45+08:00",
+                            "trackKey": "81568946287976_2161_8_newProduct_11 pro max",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 29260,
+                            "skuId": 284,
+                            "isShowPromotion": true,
+                            "promotionText": "超感光徕卡四摄 超强变焦 超级快充",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新补贴",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "华为 P30 Pro 8GB 128GB 极光色",
+                            "subsidies": 200,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/4be2efca1d9e2b38MTU2MTQ3NzcxNzgwMA==.jpg",
+                            "skuParams": "8GB+128GB",
+                            "price": 4488,
+                            "officialPrice": 4488,
+                            "id": 2190,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/29260",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-10-19T15:57:08+08:00",
+                            "trackKey": "81571471786818_2190_8_newProduct_P30pro",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 29261,
+                            "skuId": 272,
+                            "isShowPromotion": true,
+                            "promotionText": "手持拍月亮神器",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新补贴",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": false,
+                            "giftTagImage": "https://sr.aihuishou.com/sos/image/6369494162443683101870433941.png?x-oss-process=image/quality,q_80&size=180x60",
+                            "buttonText": "立即换新",
+                            "name": "华为 P30 8GB 64GB 天空之境",
+                            "subsidies": 300,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/67ef1537614104ebMTU2MjU3MzU2Mzc4OA==.jpg",
+                            "skuParams": "8GB+64GB",
+                            "price": 3388,
+                            "officialPrice": 3388,
+                            "id": 1700,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/29261",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T10:55:16+08:00",
+                            "trackKey": "81557802529673_1700_8_newProduct_华为p30",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 31008,
+                            "skuId": 494,
+                            "isShowPromotion": true,
+                            "promotionText": "麒麟810芯片 | 4800万超清夜拍",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "旧机加价",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": false,
+                            "giftTagImage": "https://sr.aihuishou.com/sos/image/6370142739054878201837568835.png?x-oss-process=image/quality,q_80&size=180x60",
+                            "buttonText": "立即换新",
+                            "name": "荣耀 9X 6GB 128GB 幻夜黑 全网通",
+                            "subsidies": 250,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/6MTU2Mzk0MTM3Nzc5Mw==.jpg",
+                            "skuParams": "6GB+128GB",
+                            "price": 1799,
+                            "officialPrice": 1799,
+                            "id": 1764,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/31008",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T10:52:29+08:00",
+                            "trackKey": "81557802443139_1764_8_newProduct_9X",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 32066,
+                            "skuId": 712,
+                            "isShowPromotion": true,
+                            "promotionText": "6400W像素",
+                            "defaultPriceType": 1,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "Redmi Note 8 6GB 128GB 皓月白 全网通",
+                            "subsidies": 100,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/8d2e3fadc4cfac3cMTU2ODg4NzcwNzc2NA==.jpg",
+                            "skuParams": "6GB+128GB",
+                            "price": 1299,
+                            "officialPrice": 1299,
+                            "id": 2152,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/32066",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-09-19T11:03:44+08:00",
+                            "trackKey": "81568862201102_2152_8_newProduct_Note8",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 32019,
+                            "skuId": 623,
+                            "isShowPromotion": true,
+                            "promotionText": "李现同款 荣耀最强自拍手机",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "旧机加价",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": true,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "荣耀 20S 8GB 128GB 蝶羽白 全网通",
+                            "subsidies": 200,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/1a50d9fc0f6e643aMTU2NzU4NDk1MTg5Mw==.jpg",
+                            "skuParams": "8GB+128GB",
+                            "price": 1999,
+                            "officialPrice": 1999,
+                            "id": 2153,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/32019",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-09-19T11:04:33+08:00",
+                            "trackKey": "81568862278432_2153_8_newProduct_荣耀20S",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 32244,
+                            "skuId": 741,
+                            "isShowPromotion": true,
+                            "promotionText": "千元旗舰性能机",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "旧机加价",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": true,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "荣耀 Play3 4GB 128GB 幻夜黑 全网通",
+                            "subsidies": 180,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/ccaba618f385f96aMTU2ODYyNTQ3NDUxMg==.jpg",
+                            "skuParams": "4GB+128GB",
+                            "price": 1299,
+                            "officialPrice": 1299,
+                            "id": 2154,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/32244",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-09-19T11:05:26+08:00",
+                            "trackKey": "81568862326888_2154_8_newProduct_Play3",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 28495,
+                            "skuId": 526,
+                            "isShowPromotion": true,
+                            "promotionText": "高清珍珠屏 AI长续航",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": true,
+                            "isShowGiftTag": true,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "华为 畅享9 4GB 64GB 幻夜黑 全网通",
+                            "subsidies": 100,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/5c00df9bN52171b33MTU2NTg0OTE3MzY3Ng==.jpg",
+                            "skuParams": "4GB+64GB",
+                            "price": 999,
+                            "officialPrice": 999,
+                            "id": 2155,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/28495",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-09-19T11:06:23+08:00",
+                            "trackKey": "81568862377114_2155_8_newProduct_畅享9",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 1,
+                    "displayPosition": "Left"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "singleImage",
+            "items": [
+                {
+                    "imageUrl": "https://sr.aihuishou.com/sos/image/636934281505770480536443817.jpg?x-oss-process=image/quality,q_80&size=750x75",
+                    "id": 1701,
+                    "url": "",
+                    "urlType": 0,
+                    "order": 0,
+                    "wechatApplet": null,
+                    "createOn": "2019-05-14 10:55:52",
+                    "trackKey": "81557802697952_1701_8_singleImage_小米专区",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 28829,
+                            "skuId": 262,
+                            "isShowPromotion": true,
+                            "promotionText": "4800万拍照千元机",
+                            "defaultPriceType": 1,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "红米 Note 7 3GB 32GB 亮黑色 全网通",
+                            "subsidies": 10,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/c1f49cd69e6c7e6aMTU2MTQ3Nzk4MDY2Nw==.jpg",
+                            "skuParams": "3GB+32GB",
+                            "price": 899,
+                            "officialPrice": 999,
+                            "id": 1979,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/28829",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T11:03:11+08:00",
+                            "trackKey": "81557802859934_1979_8_newProduct_小米专区",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        },
+                        {
+                            "productId": 32068,
+                            "skuId": 715,
+                            "isShowPromotion": true,
+                            "promotionText": "6400万像素",
+                            "defaultPriceType": 1,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "Redmi Note 8 Pro 6GB 64GB 电光灰 全网通",
+                            "subsidies": 20,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/4a8de026bfd12a3aMTU2ODAyMTY5NzIzNg==.png",
+                            "skuParams": "6GB+64GB",
+                            "price": 1299,
+                            "officialPrice": 1299,
+                            "id": 1980,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/32068",
+                            "urlType": 0,
+                            "order": 1,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T11:03:11+08:00",
+                            "trackKey": "81557802859934_1980_8_newProduct_小米专区",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 2,
+                    "displayPosition": "Multi"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 29706,
+                            "skuId": 337,
+                            "isShowPromotion": true,
+                            "promotionText": "4800万超广角三摄",
+                            "defaultPriceType": 1,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "红米 K20 6GB 128GB 碳纤黑 全网通",
+                            "subsidies": 200,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/K20-1MTU2MTM2NzExNTQ3Nw==.jpg",
+                            "skuParams": "6GB+128GB",
+                            "price": 1599,
+                            "officialPrice": 1599,
+                            "id": 1981,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/29706",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T10:57:59+08:00",
+                            "trackKey": "81557802735469_1981_8_newProduct_小米专区",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        },
+                        {
+                            "productId": 30384,
+                            "skuId": 381,
+                            "isShowPromotion": true,
+                            "promotionText": "4800万超广角三摄",
+                            "defaultPriceType": 1,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "小米 CC 9e 4GB 64GB 深蓝星球",
+                            "subsidies": 100,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/4MTU2Mzg0OTc2NDAzNg==.jpg",
+                            "skuParams": "4GB+64GB",
+                            "price": 1099,
+                            "officialPrice": 1099,
+                            "id": 2029,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/30384",
+                            "urlType": 0,
+                            "order": 1,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T10:57:59+08:00",
+                            "trackKey": "81557802735469_2029_8_newProduct_小米专区",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 2,
+                    "displayPosition": "Multi"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "singleImage",
+            "items": [
+                {
+                    "imageUrl": "https://sr.aihuishou.com/sos/image/6369342885818128201869403918.jpg?x-oss-process=image/quality,q_80&size=750x75",
+                    "id": 1709,
+                    "url": "",
+                    "urlType": 0,
+                    "order": 0,
+                    "wechatApplet": null,
+                    "createOn": "2019-05-14 11:07:39",
+                    "trackKey": "81557803408634_1709_8_singleImage_华为荣耀专区",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 31007,
+                            "skuId": 498,
+                            "isShowPromotion": true,
+                            "promotionText": "麒麟810旗舰级芯片 4800万夜拍三摄",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "旧机加价",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "荣耀 9X PRO 8GB 256GB 幻夜黑 全网通",
+                            "subsidies": 300,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/e00a86236dd7b270MTU2NTE2MDA3NjM0Nw==.jpg",
+                            "skuParams": "8GB+256GB",
+                            "price": 2199,
+                            "officialPrice": 2199,
+                            "id": 1983,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/31007",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-07-08T16:22:33+08:00",
+                            "trackKey": "81562573962876_1983_8_newProduct_nova5+5Pro",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        },
+                        {
+                            "productId": 30173,
+                            "skuId": 371,
+                            "isShowPromotion": true,
+                            "promotionText": "3200万人像超级夜景",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "华为 nova5 Pro 8GB 128GB 仲夏紫",
+                            "subsidies": 300,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/5MTU2MTY4NjE0ODEyMg==.jpg",
+                            "skuParams": "8GB+128GB",
+                            "price": 2699,
+                            "officialPrice": 2699,
+                            "id": 1984,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/30173",
+                            "urlType": 0,
+                            "order": 1,
+                            "wechatApplet": null,
+                            "createOn": "2019-07-08T16:22:33+08:00",
+                            "trackKey": "81562573962876_1984_8_newProduct_nova5+5Pro",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 2,
+                    "displayPosition": "Multi"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 30044,
+                            "skuId": 358,
+                            "isShowPromotion": true,
+                            "promotionText": "4800万全焦段AI四摄",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "旧机加价",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": "https://sr.aihuishou.com/sos/image/6369650225570935201822293767.png?x-oss-process=image/quality,q_80&size=112x80",
+                            "buttonText": "立即换新",
+                            "name": "荣耀20 PRO 8GB 128GB 蓝水翡翠",
+                            "subsidies": 300,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/1MTU2MjU2NTQ1MTcwMg==.jpg",
+                            "skuParams": "8GB+128GB",
+                            "price": 2699,
+                            "officialPrice": 2699,
+                            "id": 1820,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/30044",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T11:13:15+08:00",
+                            "trackKey": "81557803439422_1820_8_newProduct_华为荣耀",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        },
+                        {
+                            "productId": 28612,
+                            "skuId": 182,
+                            "isShowPromotion": true,
+                            "promotionText": "麒麟980 魅眼全视屏",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "旧机加价",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "荣耀V20 6GB+128GB 魅海蓝",
+                            "subsidies": 0,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/4494127f19776033MTU2ODg2NDI2Njk2Mw==.jpg",
+                            "skuParams": "6GB+128GB",
+                            "price": 2999,
+                            "officialPrice": 2999,
+                            "id": 1985,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/28612",
+                            "urlType": 0,
+                            "order": 1,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T11:13:15+08:00",
+                            "trackKey": "81557803439422_1985_8_newProduct_华为荣耀",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 2,
+                    "displayPosition": "Multi"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 29291,
+                            "skuId": 308,
+                            "isShowPromotion": true,
+                            "promotionText": "3200万AI自拍",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "旧机加价",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": "https://sr.aihuishou.com/sos/image/6369588006483685901051872969.png?x-oss-process=image/quality,q_80&size=112x80",
+                            "buttonText": "立即换新",
+                            "name": "荣耀 20i 4GB 128GB 幻夜黑",
+                            "subsidies": 100,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/12d7e0bf9d9a8fcad3MTU2MTQ3ODMxMDYzNQ==.jpg",
+                            "skuParams": "4GB+128GB",
+                            "price": 1399,
+                            "officialPrice": 1399,
+                            "id": 1715,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/29291",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T11:21:10+08:00",
+                            "trackKey": "81557803995525_1715_8_newProduct_20i+Magic2",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        },
+                        {
+                            "productId": 27908,
+                            "skuId": 128,
+                            "isShowPromotion": true,
+                            "promotionText": "麒麟980 AI处理器",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "旧机加价",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "荣耀Magic2 8GB+128GB 渐变黑",
+                            "subsidies": 400,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/70fbbccdf8811111MTU2MTQ3ODMwODc2MQ==.jpg",
+                            "skuParams": "8GB+128GB",
+                            "price": 2399,
+                            "officialPrice": 2399,
+                            "id": 1822,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/27908",
+                            "urlType": 0,
+                            "order": 1,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T11:21:10+08:00",
+                            "trackKey": "81557803995525_1822_8_newProduct_20i+Magic2",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 2,
+                    "displayPosition": "Multi"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 27781,
+                            "skuId": 110,
+                            "isShowPromotion": true,
+                            "promotionText": "强劲续航的商务旗舰机",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新补贴",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "Mate20 6GB+128GB 翡冷翠",
+                            "subsidies": 100,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/5bbf1b31N26d09e62MTU2MTQ3ODQyMTg3NQ==.jpg",
+                            "skuParams": "6GB+128GB",
+                            "price": 3099,
+                            "officialPrice": 3099,
+                            "id": 1712,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/27781",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T11:16:55+08:00",
+                            "trackKey": "81557803777031_1712_8_newProduct_华为荣耀",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        },
+                        {
+                            "productId": 30175,
+                            "skuId": 365,
+                            "isShowPromotion": true,
+                            "promotionText": "后置全场景AI四摄",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "华为 nova 5i 6GB 128GB 幻夜黑",
+                            "subsidies": 200,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/1MTU2MTY4NTg1ODU5OQ==.jpg",
+                            "skuParams": "6GB+128GB",
+                            "price": 1799,
+                            "officialPrice": 1799,
+                            "id": 1961,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/30175",
+                            "urlType": 0,
+                            "order": 1,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T11:16:55+08:00",
+                            "trackKey": "81557803777031_1961_8_newProduct_华为荣耀",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 2,
+                    "displayPosition": "Multi"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 27782,
+                            "skuId": 168,
+                            "isShowPromotion": true,
+                            "promotionText": "超大广角徕卡三摄",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "Mate 20 pro 8GB+256GB 宝石蓝",
+                            "subsidies": 200,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/5bbefc02N9d925602MTU2MTQ3ODEwMDI1Mw==.jpg",
+                            "skuParams": "8GB+256GB",
+                            "price": 5899,
+                            "officialPrice": 5899,
+                            "id": 1788,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/27782",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-28T12:51:02+08:00",
+                            "trackKey": "81559018462517_1788_8_newProduct_Mate 20 Pro+荣耀20i 永久有效",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        },
+                        {
+                            "productId": 29117,
+                            "skuId": 253,
+                            "isShowPromotion": true,
+                            "promotionText": "3200万立体美颜AI三摄",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "华为 nova 4e 6GB 128GB 雀翎蓝",
+                            "subsidies": 200,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/4MTU2MjIzMDM1MzgxMg==.jpg",
+                            "skuParams": "6GB+128GB",
+                            "price": 1999,
+                            "officialPrice": 1999,
+                            "id": 1986,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/29117",
+                            "urlType": 0,
+                            "order": 1,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-28T12:51:02+08:00",
+                            "trackKey": "81559018462517_1986_8_newProduct_Mate 20 Pro+荣耀20i 永久有效",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 2,
+                    "displayPosition": "Multi"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 28495,
+                            "skuId": 526,
+                            "isShowPromotion": true,
+                            "promotionText": "高清珍珠屏 AI长续航",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "华为 畅享9 4GB 64GB 幻夜黑 全网通",
+                            "subsidies": 100,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/5c00df9bN52171b33MTU2NTg0OTE3MzY3Ng==.jpg",
+                            "skuParams": "4GB+64GB",
+                            "price": 999,
+                            "officialPrice": 999,
+                            "id": 1944,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/28495",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-07-04T20:08:10+08:00",
+                            "trackKey": "81562241903451_1944_8_newProduct_nova 4+nova 4e",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        },
+                        {
+                            "productId": 27783,
+                            "skuId": 118,
+                            "isShowPromotion": true,
+                            "promotionText": "超微距影像",
+                            "defaultPriceType": 2,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新再省",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": null,
+                            "buttonText": "立即换新",
+                            "name": "Mate20 X 6GB+128GB 幻影银",
+                            "subsidies": 200,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/5bbf1cf2N73eff5ccMTU2MzE1NDg2NjMxMw==.jpg",
+                            "skuParams": "6GB+128GB",
+                            "price": 3199,
+                            "officialPrice": 3199,
+                            "id": 1969,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/27783",
+                            "urlType": 0,
+                            "order": 1,
+                            "wechatApplet": null,
+                            "createOn": "2019-07-04T20:08:10+08:00",
+                            "trackKey": "81562241903451_1969_8_newProduct_nova 4+nova 4e",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 2,
+                    "displayPosition": "Multi"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "singleImage",
+            "items": [
+                {
+                    "imageUrl": "https://sr.aihuishou.com/sos/image/6369342862273520501010854439.jpg?x-oss-process=image/quality,q_80&size=750x75",
+                    "id": 1706,
+                    "url": "",
+                    "urlType": 0,
+                    "order": 0,
+                    "wechatApplet": null,
+                    "createOn": "2019-05-14 11:03:46",
+                    "trackKey": "81557803173612_1706_8_singleImage_苹果专区",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "newProduct",
+            "items": [
+                {
+                    "items": [
+                        {
+                            "productId": 27637,
+                            "skuId": 135,
+                            "isShowPromotion": true,
+                            "promotionText": "性价比超高的高端机",
+                            "defaultPriceType": 1,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新补贴",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": "https://sr.aihuishou.com/sos/image/6369343122259753201343216644.png?x-oss-process=image/quality,q_80&size=112x80",
+                            "buttonText": "立即换新",
+                            "name": "Apple iPhone XR 128GB 黑色 双卡双待",
+                            "subsidies": 300,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/a2c208410ae84d1fMTU2MTQ3NzU5ODUxOA==.jpg",
+                            "skuParams": "128GB",
+                            "price": 5088,
+                            "officialPrice": 6699,
+                            "id": 1707,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/27637",
+                            "urlType": 0,
+                            "order": 0,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T11:07:06+08:00",
+                            "trackKey": "81557803208682_1707_8_newProduct_苹果专区",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        },
+                        {
+                            "productId": 27640,
+                            "skuId": 93,
+                            "isShowPromotion": true,
+                            "promotionText": "双卡双待的年度机皇",
+                            "defaultPriceType": 1,
+                            "isShowOfficialPrice": true,
+                            "isShowSubsidyTag": true,
+                            "subsidyText": "换新补贴",
+                            "isShowMemoryTag": false,
+                            "isShowGiftTag": false,
+                            "giftTagImage": "https://sr.aihuishou.com/sos/image/6369343126666202801455375695.png?x-oss-process=image/quality,q_80&size=112x80",
+                            "buttonText": "立即换新",
+                            "name": "Apple iPhone XS Max 256GB 金色 双卡双待",
+                            "subsidies": 200,
+                            "imgUrl": "https://ahs-trade-in-static.aihuishou.com/trade-in-product-option-img/45ab3dd6c35d981bMTU2MTQ3ODIwNjg0OQ==.jpg",
+                            "skuParams": "256GB",
+                            "price": 8788,
+                            "officialPrice": 10499,
+                            "id": 1708,
+                            "url": "https://m.aihuishou.com/n/#/newproduct/detail/27640",
+                            "urlType": 0,
+                            "order": 1,
+                            "wechatApplet": null,
+                            "createOn": "2019-05-14T11:07:06+08:00",
+                            "trackKey": "81557803208682_1708_8_newProduct_苹果专区",
+                            "wechatAppidOrigin": null,
+                            "wechatAppid": null
+                        }
+                    ],
+                    "lineProductQuantity": 2,
+                    "displayPosition": "Multi"
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "singleImage",
+            "items": [
+                {
+                    "imageUrl": "https://sr.aihuishou.com/sos/image/6368308736179278501250759584.png?x-oss-process=image/quality,q_80&size=750x656",
+                    "id": 459,
+                    "url": "",
+                    "urlType": 0,
+                    "order": 0,
+                    "wechatApplet": null,
+                    "createOn": "2018-11-16 11:47:38",
+                    "trackKey": "81542334902560_459_8_singleImage_品牌背书",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "singleImage",
+            "items": [
+                {
+                    "imageUrl": "https://sr.aihuishou.com/sos/image/636783346407056120344016565.png?x-oss-process=image/quality,q_80&size=750x210",
+                    "id": 460,
+                    "url": "",
+                    "urlType": 0,
+                    "order": 0,
+                    "wechatApplet": null,
+                    "createOn": "2018-11-16 11:48:02",
+                    "trackKey": "81542334910292_460_8_singleImage_换新流程",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "tabBar",
+            "items": [
+                {
+                    "defaultImageUrl": "https://sr.aihuishou.com/sos/image/636919176815888190430877813.png?x-oss-process=image/quality,q_80&size=250x98",
+                    "highLightImageUrl": "https://sr.aihuishou.com/sos/image/636918057431902280577173645.png?x-oss-process=image/quality,q_80&size=250x98",
+                    "title": "首页",
+                    "id": 463,
+                    "url": "https://m.aihuishou.com",
+                    "urlType": 1,
+                    "order": 0,
+                    "wechatApplet": null,
+                    "createOn": "2018-11-16 11:51:26",
+                    "trackKey": "81542334944757_463_8_tabBar_换新机-底部导航_首页",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                },
+                {
+                    "defaultImageUrl": "https://sr.aihuishou.com/sos/image/63693109344477768037840720.png?x-oss-process=image/quality,q_80&size=250x98",
+                    "highLightImageUrl": "https://sr.aihuishou.com/sos/image/636931093470072480343526511.png?x-oss-process=image/quality,q_80&size=250x98",
+                    "title": "换新机",
+                    "id": 464,
+                    "url": "https://m.aihuishou.com/n/#/ofnew/home",
+                    "urlType": 0,
+                    "order": 1,
+                    "wechatApplet": null,
+                    "createOn": "2018-11-16 11:51:26",
+                    "trackKey": "81542334944757_464_8_tabBar_换新机-底部导航_换新机",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                },
+                {
+                    "defaultImageUrl": "https://sr.aihuishou.com/sos/image/636918057605907080336201189.png?x-oss-process=image/quality,q_80&size=250x98",
+                    "highLightImageUrl": "https://sr.aihuishou.com/sos/image/636918750794448930543952054.png?x-oss-process=image/quality,q_80&size=250x98",
+                    "title": "我的",
+                    "id": 465,
+                    "url": "https://m.aihuishou.com/n/#/account",
+                    "urlType": 3,
+                    "order": 2,
+                    "wechatApplet": null,
+                    "createOn": "2018-11-16 11:51:26",
+                    "trackKey": "81542334944757_465_8_tabBar_换新机-底部导航_我的",
+                    "wechatAppidOrigin": null,
+                    "wechatAppid": null
+                }
+            ],
+            "item": null
+        },
+        {
+            "type": "floatIcon",
+            "items": [],
+            "item": null
+        }
+    ],
+    "code": 0,
+    "msg": null
+}
