@@ -1,0 +1,103 @@
+.login-container .login-header {
+    font-size: .18rem;
+    color: #333;
+    height: .44rem;
+    line-height: .44rem;
+    max-width: 750px;
+    margin: 0 auto;
+    z-index: 100;
+    text-align: center;
+}
+.login-header .back {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: .5rem;
+    height: .44rem;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAoCAMAAADT08pnAAAAP1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACzJYIvAAAAFHRSTlMA+Tzd9Oq/ZlEtE6x+HwuU0N+X0TF2eHEAAACQSURBVCjPlZNbDoUgDAWv4gvfeLv/tZryY8LUVM7nNAGmpT87bbD52IjJDxGrMA9iFmJQ3oBPnfJuKvkqmhQLvC+ZD3PBtzPzC1Z9vnaklfK+pZXm3EwrWXbTStY6q/DZ6p/54Vg9CbBCwTnKuRzP9QTZEiQmNBFtRy4MCqP1Xfl96l1ThSvWAK7eqtH1dZ1vgBEQsMaM/J8AAAAASUVORK5CYII=) no-repeat 50%;
+    background-size: .12rem;
+}
+.banner{
+    width: 100%;
+    height: 1.84rem;
+    padding-bottom: .1rem;
+}
+.banner img{
+    width: 100%;
+    height: 1.74rem;
+    display: block;
+}
+.ant-tabs-bar {
+    top:2.3rem!important;
+}
+.card-container > .login_cont > .ant-tabs-content {
+    height: 2.8rem!important;
+  }
+  
+  .card-container > .login_cont> .ant-tabs-content > .ant-tabs-tabpane {
+    background: #fff;
+    padding: 0 .16rem ;
+  }
+  .card-container > .login_cont > .ant-tabs-bar {
+    border:none!important;
+    margin:0!important
+  }
+  
+  .card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab {
+    font-size: .14rem;
+    width:1.29rem;
+    height: .28rem;
+    float: left;
+    margin:0!important;
+    line-height: .28rem;
+    text-align: center;
+    border-radius: .28rem;
+    background: #fff;
+    border:none!important
+  }
+  .ant-tabs-nav{
+    border:.01rem solid #f9e72c!important;
+    border-radius: .28rem;
+    width: 2.6rem;
+    height: .28rem;
+    margin-left:15%!important;
+    overflow: hidden;
+  }
+
+  .card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-active {
+    background: #f9e72c
+  }
+  .ant-form{
+      height: auto!important
+  }
+  .ant-form-item{
+    height: .52rem;
+    line-height: .32rem;
+    padding: .1rem 0;
+    margin:0!important;
+    border-bottom: .01rem solid #eee;
+  }
+  .ant-form-item:nth-child(3){
+
+    border-bottom:none;
+  }
+  input,input:active, input:focus {
+    border: 0!important;
+    outline: 0!important;
+  }
+  input:focus {
+    border: 0!important;
+    outline: 0!important;
+  }
+  .ant-checkbox-wrapper span{
+    font-size: .12rem;
+    color: #797979;
+  }
+.login-form-button{
+    width:3.45rem;
+    height: .36rem;
+    
+}
+/* .ant-tabs-tabpane{
+    padding: .16rem!important;
+} */
