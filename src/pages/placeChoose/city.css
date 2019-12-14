@@ -10,14 +10,7 @@
     background: white;
 
 }
-.City-header{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    border: .5px solid rgb(235, 237, 240);
-    height:.44rem;
-    padding-top:.15rem;
-}
+
 .alphabet{
     position: fixed;
     display: flex;

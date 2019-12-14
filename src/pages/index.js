@@ -3,6 +3,7 @@ import PhoneSell from "./home/phoneSell"
 import LaptoSell from "./mock/laptoSell"
 import TabletSell from "./mock/tabletSell"
 import PlaceChoose from "../pages/placeChoose/index"
+import Detail from "../pages/service/detail"
 
 import My from "./my"
 import Service from "./service"
@@ -22,5 +23,6 @@ export {
     Login,
     Upgrade,
     PhionList,
-    DetailsPage
+    DetailsPage,
+    Detail
 }

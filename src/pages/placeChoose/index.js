@@ -18,7 +18,12 @@ class placeChoose  extends Component{
         return(
             <div style={{position:"relative"}}>
                 <div className="cityHeader">
-                    <div className="City-header">
+                    <div className="City-header" style={{display: "flex",
+                        flexDirection: "row",
+                        justifyContent: "space-around",
+                        border: ".5px solid rgb(235, 237, 240)",
+                        height:".44rem",
+                        paddingtop:".15rem"}}>
                         <span onClick={this.handlerBack} style={{marginLeft:"-0.4rem"}}>
                             <img src={CityBack} alt=""/>
                         </span>

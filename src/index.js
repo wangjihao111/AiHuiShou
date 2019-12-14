@@ -29,7 +29,7 @@ ReactDOM.render(
                 <Route path="/service" component={Service}/>
                 <Route path="/my" component={My}/>
                 <Route path="/login" component={Login}/>
-                {/* <Route path="/detail/:id" component={Detail}/> */}
+                 <Route path="/detail/:id" component={Detail}/>
                 <Route path="/" excat component={App}  />
                 {/*<Redirect to="/home/recommend" from="/" />*/}
             </Switch>
