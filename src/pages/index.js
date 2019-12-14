@@ -6,8 +6,10 @@ import PlaceChoose from "../pages/placeChoose/index"
 
 import My from "./my"
 import Service from "./service"
-import Detail from "./service/detail"
 import Login from "./login"
+import Upgrade from "./upgrade"
+import PhionList from "./phionList"
+import DetailsPage from "./DetailsPage/index"
 
 export {
     Recommend,
@@ -17,6 +19,8 @@ export {
     PlaceChoose,
     My,
     Service,
-    Detail,
-    Login
+    Login,
+    Upgrade,
+    PhionList,
+    DetailsPage
 }

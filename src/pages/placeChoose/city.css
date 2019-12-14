@@ -1,0 +1,22 @@
+.cityChoose>div{
+    border-bottom: .01rem solid #cccccc;
+    padding: .06rem .1rem;
+}
+.cityHeader{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background: white;
+}
+.alphabet{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    right: .1rem;
+    top: 1rem;
+}
+
+
+
+

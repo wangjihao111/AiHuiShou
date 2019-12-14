@@ -1,0 +1,58 @@
+.listC{
+    width: 100%;
+}
+.listC .tops{
+    width: 100%;
+    overflow: hidden;
+}
+.listC .tops div{
+    width: 33%;
+    height: 1rem;
+    float: left;
+    position: relative;
+    text-align: center;
+    background: #ffffff;
+    padding-top: 0.1rem;
+    
+   
+}
+.listC .tops img{
+    width:60%;
+    border: 1px solid #999; 
+    margin: auto;
+    
+}
+.listC .tops p{
+    font-size: 0.12rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 0.1rem;
+}
+.listC .tops span{
+    display: block;
+    font-size: 0.15rem;
+    color: #ffffff;
+    width: 0.15rem;
+    height: 0.15rem;
+    background: #000000;
+    opacity: 0.5;
+    text-align: center;
+    line-height: 0.15rem;
+    position: absolute;
+    top: 0.1rem;
+    left: 0.18rem;
+}
+.listC li{
+    width: 100%;
+    height: 0.7rem;
+    border-bottom: 1px solid #eee;
+    line-height: 0.7rem;
+    
+    color: #000000;
+}
+.listC li span{
+    display: inline-block;
+    font-size: 0.14rem;
+}
+

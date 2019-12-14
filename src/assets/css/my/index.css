@@ -42,7 +42,11 @@
     align-items: center;
     position: relative;
 }
-.user-content .avatar,img{
+.user-content .avatar{
+    width: .48rem;
+    height: .48rem;
+}
+.user-content img{
     width: .48rem;
     height: .48rem;
 }

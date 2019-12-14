@@ -51,7 +51,7 @@ class Recommend  extends Component{
                         <span>智能数码</span>
                     </div>
                 </div>
-                <div className="sos-images-container" >
+                <div className="sos-images-container" onClick={this.toList.bind(this)} >
                     <img src="https://sr.aihuishou.com/sos/image/6367657649175868001951108153.png?x-oss-process=image/quality,q_80&size=750x152" alt=""/>
                 </div>
                 <div style={{width:"100%",height:"60px"}} className="sos-images-container">
@@ -83,6 +83,9 @@ class Recommend  extends Component{
                 </div>
             </div>
         )
+    }
+    toList(){
+        this.props.history.push("/PhionList")
     }
 }
 

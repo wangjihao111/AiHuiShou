@@ -1,0 +1,774 @@
+{
+    "totalCount": 0,
+    "pageIndex": 0,
+    "pageSize": 20,
+    "data": [
+        {
+            "id": 25827,
+            "name": "苹果 iPhone X",
+            "avgPrice": 4200,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28b40bc60057c40a000005.png"
+        },
+        {
+            "id": 23423,
+            "name": "苹果 iPhone 7 Plus",
+            "avgPrice": 2239,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28ef0d575a970000000039.png"
+        },
+        {
+            "id": 17461,
+            "name": "苹果 iPhone 6",
+            "avgPrice": 396,
+            "imgUrl": "https://sr.aihuishou.com/image/5a2de81330964b9811000001.png"
+        },
+        {
+            "id": 25680,
+            "name": "苹果 iPhone 8 Plus",
+            "avgPrice": 3732,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28eed8575a970000000031.png"
+        },
+        {
+            "id": 17462,
+            "name": "苹果 iPhone 6 Plus",
+            "avgPrice": 570,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28b493c60057c40a000021.png"
+        },
+        {
+            "id": 17752,
+            "name": "苹果 iPhone 6S Plus",
+            "avgPrice": 924,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28b479c60057c40a000019.png"
+        },
+        {
+            "id": 17726,
+            "name": "苹果 iPhone 6S",
+            "avgPrice": 768,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28b481c60057c40a00001d.png"
+        },
+        {
+            "id": 23422,
+            "name": "苹果 iPhone 7",
+            "avgPrice": 1670,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28ef07b1d1b4e01f000011.png"
+        },
+        {
+            "id": 25679,
+            "name": "苹果 iPhone 8",
+            "avgPrice": 2400,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28b433575a970000000011.png"
+        },
+        {
+            "id": 17458,
+            "name": "苹果 iPhone 5S",
+            "avgPrice": 233,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28b4c2575a970000000021.png"
+        },
+        {
+            "id": 27640,
+            "name": "苹果 iPhone XS Max",
+            "avgPrice": 5949,
+            "imgUrl": "https://sr.aihuishou.com/image/5ba3685de38bb01c30000054.png"
+        },
+        {
+            "id": 24799,
+            "name": "小米手机 6",
+            "avgPrice": 621,
+            "imgUrl": "https://sr.aihuishou.com/image/5a338bd510a81c00000001d1.png"
+        },
+        {
+            "id": 19664,
+            "name": "OPPO R9",
+            "avgPrice": 222,
+            "imgUrl": "https://sr.aihuishou.com/image/5a336c1f3a32e4700f00005d.png"
+        },
+        {
+            "id": 26536,
+            "name": "华为 P20 Pro",
+            "avgPrice": 2045,
+            "imgUrl": "https://sr.aihuishou.com/image/5acf269e31a0cc0000000017.png"
+        },
+        {
+            "id": 23756,
+            "name": "华为 Mate9",
+            "avgPrice": 520,
+            "imgUrl": "https://sr.aihuishou.com/image/5a31500ea255136011000009.png"
+        },
+        {
+            "id": 19534,
+            "name": "三星 Galaxy S7 Edge",
+            "avgPrice": 950,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28c309b1d1b4e01f000001.png"
+        },
+        {
+            "id": 24217,
+            "name": "红米Note 4X",
+            "avgPrice": 257,
+            "imgUrl": "https://sr.aihuishou.com/image/5a2fadcef85e2c000000005d.png"
+        },
+        {
+            "id": 23640,
+            "name": "OPPO R9s",
+            "avgPrice": 319,
+            "imgUrl": "https://sr.aihuishou.com/image/5a336c3110a81c0000000059.png"
+        },
+        {
+            "id": 26912,
+            "name": "小米手机8（后指纹版）",
+            "avgPrice": 1051,
+            "imgUrl": "https://sr.aihuishou.com/image/5b10bbd6c9f2b83c09000001.png"
+        },
+        {
+            "id": 25040,
+            "name": "三星 Galaxy S8+",
+            "avgPrice": 1230,
+            "imgUrl": "https://sr.aihuishou.com/image/5a28ca1f575a970000000025.png"
+        }
+    ],
+    "code": 0,
+    "msg": null
+}
+{
+    "totalCount": 0,
+    "pageIndex": 1,
+    "pageSize": 20,
+    "data": [
+        {
+            "id": 24966,
+            "name": "三星 Galaxy S8",
+            "avgPrice": 943,
+            "imgUrl": null
+        },
+        {
+            "id": 20421,
+            "name": "小米手机5 ",
+            "avgPrice": 198,
+            "imgUrl": null
+        },
+        {
+            "id": 17488,
+            "name": "三星 Galaxy Note 3",
+            "avgPrice": 141,
+            "imgUrl": null
+        },
+        {
+            "id": 20122,
+            "name": "华为 P9",
+            "avgPrice": 299,
+            "imgUrl": null
+        },
+        {
+            "id": 17895,
+            "name": "华为 Mate8",
+            "avgPrice": 361,
+            "imgUrl": null
+        },
+        {
+            "id": 20079,
+            "name": "苹果 iPhone SE",
+            "avgPrice": 812,
+            "imgUrl": null
+        },
+        {
+            "id": 26464,
+            "name": "华为 P20",
+            "avgPrice": 1166,
+            "imgUrl": null
+        },
+        {
+            "id": 25676,
+            "name": "小米 MIX2",
+            "avgPrice": 821,
+            "imgUrl": null
+        },
+        {
+            "id": 23788,
+            "name": "vivo X9",
+            "avgPrice": 443,
+            "imgUrl": null
+        },
+        {
+            "id": 17896,
+            "name": "红米Note 3",
+            "avgPrice": 112,
+            "imgUrl": null
+        },
+        {
+            "id": 14990,
+            "name": "小米手机4",
+            "avgPrice": 57,
+            "imgUrl": null
+        },
+        {
+            "id": 25998,
+            "name": "华为 Mate10 Pro",
+            "avgPrice": 1046,
+            "imgUrl": null
+        },
+        {
+            "id": 25681,
+            "name": "三星 Galaxy Note 8",
+            "avgPrice": 1762,
+            "imgUrl": null
+        },
+        {
+            "id": 22706,
+            "name": "vivo X7",
+            "avgPrice": 229,
+            "imgUrl": null
+        },
+        {
+            "id": 25806,
+            "name": "华为 Mate10",
+            "avgPrice": 972,
+            "imgUrl": null
+        },
+        {
+            "id": 23049,
+            "name": "荣耀 8",
+            "avgPrice": 274,
+            "imgUrl": null
+        },
+        {
+            "id": 23819,
+            "name": "OPPO A57 ",
+            "avgPrice": 206,
+            "imgUrl": null
+        },
+        {
+            "id": 24347,
+            "name": "华为 P10",
+            "avgPrice": 481,
+            "imgUrl": null
+        },
+        {
+            "id": 26381,
+            "name": "三星 Galaxy S9+",
+            "avgPrice": 1998,
+            "imgUrl": null
+        },
+        {
+            "id": 26512,
+            "name": "小米 MIX2S",
+            "avgPrice": 1116,
+            "imgUrl": null
+        }
+    ],
+    "code": 0,
+    "msg": null
+}
+{
+    "totalCount": 0,
+    "pageIndex": 2,
+    "pageSize": 20,
+    "data": [
+        {
+            "id": 25240,
+            "name": "荣耀 9",
+            "avgPrice": 548,
+            "imgUrl": null
+        },
+        {
+            "id": 20692,
+            "name": "OPPO A37",
+            "avgPrice": 148,
+            "imgUrl": null
+        },
+        {
+            "id": 27637,
+            "name": "苹果 iPhone XR",
+            "avgPrice": 4093,
+            "imgUrl": null
+        },
+        {
+            "id": 25731,
+            "name": "vivo X20",
+            "avgPrice": 476,
+            "imgUrl": null
+        },
+        {
+            "id": 24348,
+            "name": "华为 P10 Plus",
+            "avgPrice": 717,
+            "imgUrl": null
+        },
+        {
+            "id": 17425,
+            "name": "小米手机 Note",
+            "avgPrice": 360,
+            "imgUrl": null
+        },
+        {
+            "id": 25170,
+            "name": "OPPO R11",
+            "avgPrice": 781,
+            "imgUrl": null
+        },
+        {
+            "id": 23375,
+            "name": "红米Note 4",
+            "avgPrice": 180,
+            "imgUrl": null
+        },
+        {
+            "id": 25097,
+            "name": "小米 Max 2 ",
+            "avgPrice": 450,
+            "imgUrl": null
+        },
+        {
+            "id": 27639,
+            "name": "苹果 iPhone XS",
+            "avgPrice": 4936,
+            "imgUrl": null
+        },
+        {
+            "id": 26078,
+            "name": "荣耀 V10",
+            "avgPrice": 1559,
+            "imgUrl": null
+        },
+        {
+            "id": 23668,
+            "name": "荣耀 畅玩6X",
+            "avgPrice": 215,
+            "imgUrl": null
+        },
+        {
+            "id": 19665,
+            "name": "OPPO R9 Plus",
+            "avgPrice": 398,
+            "imgUrl": null
+        },
+        {
+            "id": 17887,
+            "name": "荣耀 畅玩5X",
+            "avgPrice": 110,
+            "imgUrl": null
+        },
+        {
+            "id": 24240,
+            "name": "荣耀 8青春版",
+            "avgPrice": 234,
+            "imgUrl": null
+        },
+        {
+            "id": 24390,
+            "name": "红米4X",
+            "avgPrice": 263,
+            "imgUrl": null
+        },
+        {
+            "id": 26613,
+            "name": "荣耀10",
+            "avgPrice": 848,
+            "imgUrl": null
+        },
+        {
+            "id": 17325,
+            "name": "三星 Galaxy A7（2016版）",
+            "avgPrice": 271,
+            "imgUrl": null
+        },
+        {
+            "id": 17457,
+            "name": "苹果 iPhone 5",
+            "avgPrice": 108,
+            "imgUrl": null
+        },
+        {
+            "id": 25677,
+            "name": "小米 Note3",
+            "avgPrice": 499,
+            "imgUrl": null
+        }
+    ],
+    "code": 0,
+    "msg": null
+}
+{
+    "totalCount": 0,
+    "pageIndex": 3,
+    "pageSize": 20,
+    "data": [
+        {
+            "id": 10025,
+            "name": "红米Note",
+            "avgPrice": 37,
+            "imgUrl": null
+        },
+        {
+            "id": 17869,
+            "name": "小米手机4c",
+            "avgPrice": 152,
+            "imgUrl": null
+        },
+        {
+            "id": 23125,
+            "name": "华为 麦芒5",
+            "avgPrice": 245,
+            "imgUrl": null
+        },
+        {
+            "id": 23862,
+            "name": "vivo Y67",
+            "avgPrice": 224,
+            "imgUrl": null
+        },
+        {
+            "id": 23614,
+            "name": "OPPO A59s",
+            "avgPrice": 227,
+            "imgUrl": null
+        },
+        {
+            "id": 17616,
+            "name": "荣耀 7",
+            "avgPrice": 199,
+            "imgUrl": null
+        },
+        {
+            "id": 26099,
+            "name": "红米 5 Plus",
+            "avgPrice": 331,
+            "imgUrl": null
+        },
+        {
+            "id": 23534,
+            "name": "小米手机5S",
+            "avgPrice": 315,
+            "imgUrl": null
+        },
+        {
+            "id": 23906,
+            "name": "vivo X9Plus",
+            "avgPrice": 347,
+            "imgUrl": null
+        },
+        {
+            "id": 17857,
+            "name": "OPPO R7s",
+            "avgPrice": 147,
+            "imgUrl": null
+        },
+        {
+            "id": 26783,
+            "name": "一加 6",
+            "avgPrice": 1360,
+            "imgUrl": null
+        },
+        {
+            "id": 23865,
+            "name": "魅族 魅蓝 Note 5",
+            "avgPrice": 187,
+            "imgUrl": null
+        },
+        {
+            "id": 15080,
+            "name": "华为 Mate7",
+            "avgPrice": 160,
+            "imgUrl": null
+        },
+        {
+            "id": 27170,
+            "name": "OPPO Find X",
+            "avgPrice": 2040,
+            "imgUrl": null
+        },
+        {
+            "id": 17486,
+            "name": "三星 Galaxy Note 2",
+            "avgPrice": 64,
+            "imgUrl": null
+        },
+        {
+            "id": 24239,
+            "name": "荣耀 V9",
+            "avgPrice": 458,
+            "imgUrl": null
+        },
+        {
+            "id": 25820,
+            "name": "荣耀 畅玩7X",
+            "avgPrice": 429,
+            "imgUrl": null
+        },
+        {
+            "id": 25273,
+            "name": "一加 5",
+            "avgPrice": 698,
+            "imgUrl": null
+        },
+        {
+            "id": 17259,
+            "name": "荣耀 畅玩4X",
+            "avgPrice": 94,
+            "imgUrl": null
+        },
+        {
+            "id": 17686,
+            "name": "红米Note 2",
+            "avgPrice": 46,
+            "imgUrl": null
+        }
+    ],
+    "code": 0,
+    "msg": null
+}
+{
+    "totalCount": 0,
+    "pageIndex": 4,
+    "pageSize": 20,
+    "data": [
+        {
+            "id": 20173,
+            "name": "vivo X6",
+            "avgPrice": 287,
+            "imgUrl": null
+        },
+        {
+            "id": 20144,
+            "name": "魅族 魅蓝 Note 3",
+            "avgPrice": 179,
+            "imgUrl": null
+        },
+        {
+            "id": 25519,
+            "name": "小米手机 5X",
+            "avgPrice": 300,
+            "imgUrl": null
+        },
+        {
+            "id": 21581,
+            "name": "三星 Galaxy C5",
+            "avgPrice": 264,
+            "imgUrl": null
+        },
+        {
+            "id": 17493,
+            "name": "三星 Galaxy S4",
+            "avgPrice": 52,
+            "imgUrl": null
+        },
+        {
+            "id": 23077,
+            "name": "vivo X7Plus",
+            "avgPrice": 258,
+            "imgUrl": null
+        },
+        {
+            "id": 17698,
+            "name": "华为 麦芒4",
+            "avgPrice": 109,
+            "imgUrl": null
+        },
+        {
+            "id": 23866,
+            "name": "vivo Y66 ",
+            "avgPrice": 179,
+            "imgUrl": null
+        },
+        {
+            "id": 21036,
+            "name": "小米Max",
+            "avgPrice": 296,
+            "imgUrl": null
+        },
+        {
+            "id": 22441,
+            "name": "OPPO A59",
+            "avgPrice": 198,
+            "imgUrl": null
+        },
+        {
+            "id": 27859,
+            "name": "华为 Mate 20 Pro（UD）屏幕指纹版",
+            "avgPrice": 3128,
+            "imgUrl": null
+        },
+        {
+            "id": 17494,
+            "name": "三星 Galaxy S5",
+            "avgPrice": 157,
+            "imgUrl": null
+        },
+        {
+            "id": 23749,
+            "name": "小米MIX",
+            "avgPrice": 523,
+            "imgUrl": null
+        },
+        {
+            "id": 14972,
+            "name": "荣耀 6",
+            "avgPrice": 74,
+            "imgUrl": null
+        },
+        {
+            "id": 26545,
+            "name": "华为 Mate RS 保时捷设计",
+            "avgPrice": 2772,
+            "imgUrl": null
+        },
+        {
+            "id": 27405,
+            "name": "三星 Galaxy Note 9",
+            "avgPrice": 3444,
+            "imgUrl": null
+        },
+        {
+            "id": 23776,
+            "name": "三星 Galaxy C9 Pro",
+            "avgPrice": 497,
+            "imgUrl": null
+        },
+        {
+            "id": 17507,
+            "name": "小米手机3",
+            "avgPrice": 21,
+            "imgUrl": null
+        },
+        {
+            "id": 26001,
+            "name": "一加 5T",
+            "avgPrice": 757,
+            "imgUrl": null
+        },
+        {
+            "id": 17912,
+            "name": "OPPO A33",
+            "avgPrice": 54,
+            "imgUrl": null
+        }
+    ],
+    "code": 0,
+    "msg": null
+}
+{
+    "totalCount": 0,
+    "pageIndex": 5,
+    "pageSize": 20,
+    "data": [
+        {
+            "id": 26428,
+            "name": "OPPO R15",
+            "avgPrice": 696,
+            "imgUrl": null
+        },
+        {
+            "id": 20210,
+            "name": "乐视超级手机 乐2",
+            "avgPrice": 133,
+            "imgUrl": null
+        },
+        {
+            "id": 23891,
+            "name": "华为 Mate9 Pro",
+            "avgPrice": 679,
+            "imgUrl": null
+        },
+        {
+            "id": 26380,
+            "name": "三星 Galaxy S9",
+            "avgPrice": 1947,
+            "imgUrl": null
+        },
+        {
+            "id": 17520,
+            "name": "三星 Galaxy S6",
+            "avgPrice": 249,
+            "imgUrl": null
+        },
+        {
+            "id": 25950,
+            "name": "OPPO R11s ",
+            "avgPrice": 630,
+            "imgUrl": null
+        },
+        {
+            "id": 17967,
+            "name": "华为 畅享5S",
+            "avgPrice": 46,
+            "imgUrl": null
+        },
+        {
+            "id": 25616,
+            "name": "魅族 魅蓝 Note 6",
+            "avgPrice": 258,
+            "imgUrl": null
+        },
+        {
+            "id": 26102,
+            "name": "华为 nova 2s",
+            "avgPrice": 488,
+            "imgUrl": null
+        },
+        {
+            "id": 17713,
+            "name": "三星 Galaxy S6 Edge+",
+            "avgPrice": 503,
+            "imgUrl": null
+        },
+        {
+            "id": 26467,
+            "name": "红米 Note 5",
+            "avgPrice": 451,
+            "imgUrl": null
+        },
+        {
+            "id": 23535,
+            "name": "小米手机5S Plus",
+            "avgPrice": 347,
+            "imgUrl": null
+        },
+        {
+            "id": 21769,
+            "name": "荣耀 V8",
+            "avgPrice": 214,
+            "imgUrl": null
+        },
+        {
+            "id": 26707,
+            "name": "小米6X",
+            "avgPrice": 514,
+            "imgUrl": null
+        },
+        {
+            "id": 17521,
+            "name": "三星 Galaxy S6 Edge",
+            "avgPrice": 498,
+            "imgUrl": null
+        },
+        {
+            "id": 23841,
+            "name": "OPPO R9s Plus",
+            "avgPrice": 335,
+            "imgUrl": null
+        },
+        {
+            "id": 17320,
+            "name": "荣耀 6 Plus",
+            "avgPrice": 106,
+            "imgUrl": null
+        },
+        {
+            "id": 17614,
+            "name": "魅族 魅蓝 Note 2",
+            "avgPrice": 41,
+            "imgUrl": null
+        },
+        {
+            "id": 17489,
+            "name": "三星 Galaxy Note 4",
+            "avgPrice": 188,
+            "imgUrl": null
+        },
+        {
+            "id": 26913,
+            "name": "小米手机8 SE",
+            "avgPrice": 638,
+            "imgUrl": null
+        }
+    ],
+    "code": 0,
+    "msg": null
+}
